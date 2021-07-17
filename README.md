@@ -5,4 +5,5 @@
 ### 03) Data Types.
 ### 04) String Operations. 
 ### 05) Boolean Operations. 
+### 06) Control Flow. (If/Else, Ternary Operators, Switch, Enum) 
 
