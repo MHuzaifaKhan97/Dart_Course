@@ -7,4 +7,4 @@
 ### 05) Boolean Operations. 
 ### 06) Control Flow. (If/Else, Ternary Operators, Switch, Enum) 
 ### 07) Loops (While, Do While, For). 
-
+### 08) Functions in Dart. 
