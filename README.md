@@ -13,3 +13,5 @@
 ### 11) Constructors. 
 ### 12) Initializer List. 
 ### 13) Constants Constructors. 
+### 14) Factory Constructors. 
+### 15) Getter Setter. 
