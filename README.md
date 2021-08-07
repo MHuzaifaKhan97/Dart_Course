@@ -17,5 +17,6 @@
 ### 15) Getter Setter. 
 ### 16) Static Members.
 ### 17) Singleton Pattern. 
+### 18) Null Safety, Null Awareness etc. 
 
 
