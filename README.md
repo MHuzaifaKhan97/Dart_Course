@@ -20,6 +20,9 @@
 ### 18) Null Safety, Null Awareness etc. 
 ### 19) Collections List. 
 ### 20) Sets & Maps. 
+### 21) Higher Order Functions. 
+### 22) Inheritance. 
+### 23) Abstract Classes. 
 
 
 
