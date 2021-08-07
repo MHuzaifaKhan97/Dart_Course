@@ -23,6 +23,7 @@
 ### 21) Higher Order Functions. 
 ### 22) Inheritance. 
 ### 23) Abstract Classes. 
+### 23) Interfaces. 
 
 
 
