@@ -24,7 +24,7 @@
 ### 22) Inheritance. 
 ### 23) Abstract Classes. 
 ### 24) Interfaces. 
-### 25) Mixins. 
+### 25) Mixin. 
 ### 26) Async Programming. 
 ### 27) Future. 
 
